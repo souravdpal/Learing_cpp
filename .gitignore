@@ -1,0 +1,11 @@
+# Ignore compiled C++ files
+*.o
+*.obj
+*.exe
+*.out
+*.class   # if you ever mix Java too
+
+# Ignore output folders
+/output/
+bin/
+build/
